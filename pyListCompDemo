@@ -1,0 +1,12 @@
+stringlist=['Hello', 'Hello', 'Goodbye', 'Frankly don''t bet on the'];
+suffix=' World.';
+
+
+tarnish=stringlist
+print(stringlist)
+tarnish=[i+suffix for i in stringlist]
+print(tarnish)
+
+print('hello world');
+print('SECOND EDIT')
+Print('third edit');
